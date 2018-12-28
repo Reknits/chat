@@ -50,6 +50,7 @@ AddEventHandler('chat:addMessage', function(message)
   })
 end)
 
+
 print(OOC)
 
 AddEventHandler('chat:addSuggestion', function(name, help, params)
